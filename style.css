@@ -10,3 +10,7 @@ p{
 .p{
     color:goldenrod;
 }
+
+table{
+    border:2px rgb(207, 28, 28);
+}
